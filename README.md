@@ -18,6 +18,6 @@
 #### Orders Module
 - [x] Add Order
 - [x] List All Orders
-- [ ] List my Orders
+- [x] List my Orders
 - [x] Cancel a Order
 - [ ] Update order status
