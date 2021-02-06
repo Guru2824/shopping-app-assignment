@@ -10,8 +10,7 @@
 - [ ] Get User Details
 
 #### Products Module
-- [ ] List All Products
-- [ ] List active products
+- [x] List active products
 - [x] Add Product
 - [X] Activate/Inactive Product
 - [ ] Get Product Details
