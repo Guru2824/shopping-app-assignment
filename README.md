@@ -12,7 +12,7 @@
 #### Products Module
 - [ ] List All Products
 - [ ] List active products
-- [ ] Add Product
+- [x] Add Product
 - [ ] Activate/Inactive Product
 - [ ] Get Product Details
 
