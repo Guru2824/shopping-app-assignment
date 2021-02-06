@@ -20,4 +20,4 @@
 - [x] List All Orders
 - [x] List my Orders
 - [x] Cancel a Order
-- [ ] Update order status
+- [x] Update order status
