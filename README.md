@@ -10,7 +10,7 @@
 - [ ] Get User Details
 
 #### Products Module
-- [x] List active products
+- [ ] List active products
 - [x] Add Product
 - [X] Activate/Inactive Product
 - [ ] Get Product Details
@@ -19,5 +19,5 @@
 - [ ] Add Order
 - [ ] List All Orders
 - [ ] List my Orders
-- [ ] Cancel a Order
+- [x] Cancel a Order
 - [ ] Update order status
