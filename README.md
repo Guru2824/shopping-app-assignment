@@ -6,7 +6,7 @@
 
 #### Users Module
 
-- [ ] Register
+- [x] Register
 - [ ] Get User Details
 
 #### Products Module
