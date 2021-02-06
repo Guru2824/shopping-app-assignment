@@ -13,7 +13,7 @@
 - [ ] List All Products
 - [ ] List active products
 - [x] Add Product
-- [ ] Activate/Inactive Product
+- [X] Activate/Inactive Product
 - [ ] Get Product Details
 
 #### Orders Module
