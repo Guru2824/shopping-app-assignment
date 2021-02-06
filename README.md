@@ -16,8 +16,8 @@
 - [ ] Get Product Details
 
 #### Orders Module
-- [ ] Add Order
-- [ ] List All Orders
+- [x] Add Order
+- [x] List All Orders
 - [ ] List my Orders
 - [x] Cancel a Order
 - [ ] Update order status
